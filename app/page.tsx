@@ -51,7 +51,7 @@ export default function Home() {
                 Reach out to us
               </Text>
               <Text as="div" size="2" weight="bold" style={{"color": "#ff613f"}}>
-                hello@cavalry.tech
+                hello@cavalry.digital
               </Text>
             </Box>
           </Flex>
